@@ -1,0 +1,13 @@
+Package: screenshot-helper
+Version: 1.0.0
+Architecture: all
+Maintainer: Emy <emy@emycommerce.com>
+Depends: xclip, libnotify-bin, libglib2.0-bin
+Filename: ./screenshot-helper-builder.deb
+Size: 1400
+MD5sum: 584fb8d7e2220ca9a3b37a9c1fcd22cc
+SHA1: 9eb6bf3552fbb23c5bf398a4207bf2d4de9c99e1
+SHA256: 30d7d4636a14393d17a9ab9f8c61dcd204075c22199a93b685808ff68dc136c7
+Description: Copies the path of the last screenshot to the clipboard.
+ A helper tool for the EmyCommerce dev team.
+
